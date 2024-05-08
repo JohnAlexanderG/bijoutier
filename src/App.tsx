@@ -98,7 +98,7 @@ function App() {
                 ¡Los regalos perfectos para mamá han llegado!
               </h1>
               <p className="mt-4 text-xl text-gray-500">
-                Este año, nuestra nueva colección para el Día de la Madre te abrazará con cariño y te protegerá de las adversidades de un mundo que no siempre reconoce el sacrificio y amor de una madre.
+              Desde delicados collares hasta elegantes pulseras, cada pieza está diseñada para reflejar su estilo único y resaltar su inigualable belleza interior.
               </p>
             </div>
             <div>
