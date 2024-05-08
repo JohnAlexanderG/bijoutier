@@ -1,0 +1,582 @@
+[
+    {
+        "id": "8437400EM00011",
+        "title": "EVA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441508771_10232072205528777_5092442725541928808_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=P7Ukl_HmLBwQ7kNvgFY13Ts&_nc_ht=scontent-bog2-2.xx&oh=00_AfDjQ1l5jJv_mcSS1i6SnpXw5cKHDHzIZ4THz5JRJRycIQ&oe=6640A921",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00012",
+        "title": "RAQUEL",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441466285_10232072205728782_5050292280635767744_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VzcSMnkw4W8Q7kNvgEo5JXN&_nc_ht=scontent-bog2-2.xx&oh=00_AfALi6Lh5_9Y7nGVZIPrz_oqW_W3JMCHpAJkY-tLdiA3eQ&oe=66408F8D",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00013",
+        "title": "SARA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441500833_10232072205608779_4078474890790684845_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jRCl03BfIM0Q7kNvgHRW4Qw&_nc_ht=scontent-bog2-2.xx&oh=00_AfAThZCP9tgj-_-hAA-PsSNLOSMrPtUg5veTMaTVqcIqlg&oe=66408035",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00014",
+        "title": "ANGELA",
+        "description": "",
+        "giftText": "",
+        "material": "ACERO",
+        "price": 20000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442408716_10232072206448800_3096343987560995097_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=biSTN3MKPHsQ7kNvgHS_E0X&_nc_ht=scontent-bog2-2.xx&oh=00_AfBEQOpHaeo8vATAX8uTeoXE-g1Kz0_IGONXP5RBwErekQ&oe=6640B2E9",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00015",
+        "title": "ISABELLA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 21000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442408988_10232072206608804_7957907430458984324_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fnexBjAHzIQQ7kNvgF0IYl0&_nc_ht=scontent-bog2-2.xx&oh=00_AfBve9ogP2umeOIdhMZSUA2OlaPEPcL3kZcV-JrXeVNSOQ&oe=66408DC1",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00016",
+        "title": "ISABELLA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 21000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441528833_10232072206768808_2821417889401756579_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=LKs5pxHG0kAQ7kNvgGfbhTN&_nc_ht=scontent-bog2-2.xx&oh=00_AfD9ZcE29ndKVrvj8FugjqwPeW5DOQFGSrIi_tYj5R7Ufg&oe=6640A072",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00017",
+        "title": "NOELIA",
+        "description": "",
+        "giftText": "",
+        "material": "",
+        "price": 34000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442384599_10232072207408824_8068806077827364893_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=N3eYzNRJ8DMQ7kNvgE8lQjA&_nc_ht=scontent-bog2-2.xx&oh=00_AfB9YLCqzyE-z_7b1swhSmxpdTFVcd_4Da6dgL-FfU6GRg&oe=6640B6D5",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00018",
+        "title": "ELOISA",
+        "description": "",
+        "giftText": "",
+        "material": "",
+        "price": 31000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442378406_10232072207568828_1631275593150787173_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uIjX0GLHwiUQ7kNvgHynrF9&_nc_ht=scontent-bog2-2.xx&oh=00_AfCk9XxNCabyIv7DRxKZ5hsuA7-JIi3sCYvdR4sK0tge5g&oe=6640B704",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00019",
+        "title": "MARIPOSAS",
+        "description": "",
+        "giftText": "",
+        "material": "",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441533634_10232072207728832_326386502398520654_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bcmqVvovchUQ7kNvgG_LED6&_nc_ht=scontent-bog2-2.xx&oh=00_AfAyA_fzh7CoA1SCS8ObWfhISOG4zUjvJx-qTCOBuoEE1Q&oe=664091DC",
+        "categorie": ""
+    },
+    {
+        "id": "8437400EM00020",
+        "title": "MARIPOSAS",
+        "description": "",
+        "giftText": "",
+        "material": "",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442378471_10232072208448850_674575309007851784_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=YwICYKwUasMQ7kNvgGKJdkF&_nc_ht=scontent-bog2-2.xx&oh=00_AfBqCudMQ6urGfyy7B-maIHx_zF5UsRC0Q61srbTevWpqg&oe=66408D86",
+        "categorie": ""
+    },
+    {
+        "id": "8437400EM00021",
+        "title": "VERYS",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 18000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442384529_10232072208688856_8869160302699158053_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BbuaQA9YY7gQ7kNvgHorRCZ&_nc_ht=scontent-bog2-2.xx&oh=00_AfBI0BY0xKUl8Fv3qnrRodEP4eYeYLN8A2HGbjHjbw4Jkw&oe=6640B378",
+        "categorie": "CHAINS"
+    },
+    {
+        "id": "8437400EM00022",
+        "title": "TAVERA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 18000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442443110_10232072208888861_4065887677156527297_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=cDB9i-KLYAQQ7kNvgGGIL08&_nc_ht=scontent-bog2-2.xx&oh=00_AfAhMNggq4dy0Z5x8fJdC-kVYhQeqI2xKcJiiNFjYQHwuw&oe=66409FC4",
+        "categorie": "CHAINS"
+    },
+    {
+        "id": "8437400EM00023",
+        "title": "SOFIA",
+        "description": "",
+        "giftText": "",
+        "material": "",
+        "price": 16000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441455531_10232072209448875_2594305153937190272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=E5NKjc9kGzMQ7kNvgHPoBuN&_nc_ht=scontent-bog2-2.xx&oh=00_AfDaarjp8gzXBRwtpjqGtxgWJpFuQeQPcUEWdhcebYVjkQ&oe=6640824E",
+        "categorie": "CHAINS"
+    },
+    {
+        "id": "8437400EM00024",
+        "title": "DASHA",
+        "description": "",
+        "giftText": "",
+        "material": "",
+        "price": 16000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441524161_10232072209728882_2807175533382473276_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KU2EJ_2OnF4Q7kNvgHJe_f4&_nc_ht=scontent-bog2-2.xx&oh=00_AfBfBps_bz0QWNeGLKQu2fdQRBbNQj1f1gbH4eqfxMl_3Q&oe=6640B48F",
+        "categorie": "CHAINS"
+    },
+    {
+        "id": "8437400EM00025",
+        "title": "EIZA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 16000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441500781_10232072209888886_862929577212273590_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7MGQZ79wqh8Q7kNvgEjdS-M&_nc_ht=scontent-bog2-2.xx&oh=00_AfChFqptWBlsh1itHgoaGM3OArMlGacJ4EJv6hQf_Dn3WA&oe=6640A506",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00026",
+        "title": "VERYS RESERVE",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442473690_10232072210448900_5562501069943053716_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Dy0A9p2K8aQQ7kNvgFpCuJo&_nc_ht=scontent-bog2-2.xx&oh=00_AfDCH3q-Ewi6B7HLQjcQTeRnj2fceEZ0aAreXGhjP8hCAA&oe=6640850E",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00027",
+        "title": "VICKTORIA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 18000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441880355_10232072210768908_464703977322849004_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ynWGpK-ODC4Q7kNvgHD9H59&_nc_ht=scontent-bog2-2.xx&oh=00_AfAY9Pyv2_B0MdSEK4vRnP2Ga3l3b4zdi4_pX5-Rp7mIkA&oe=6640AAED",
+        "categorie": "EARRINGS"
+    },
+    {
+        "id": "8437400EM00028",
+        "title": "ALYA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 18000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441955123_10232072210728907_2536369375669004183_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=efMQa50Fn5MQ7kNvgGbgm4R&_nc_ht=scontent-bog2-2.xx&oh=00_AfBBm-Ln5hWmafCSLS2zA5hmm53eQh7iiSyGpJY5iRRYTg&oe=6640838B",
+        "categorie": "EARRINGS"
+    },
+    {
+        "id": "8437400EM00029",
+        "title": "INNA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 16500,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442407782_10232072211408924_860260473693116428_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7KcBhzccIP8Q7kNvgFLAVDT&_nc_ht=scontent-bog2-2.xx&oh=00_AfA31v_34vPcwCr40ZkgUUUOVhe_j5YPDIG4eau0-dLvaQ&oe=66409B2B",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00030",
+        "title": "ALENA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 16500,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442397845_10232072211568928_5366748655967039591_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=uHbbsMzfiDgQ7kNvgEMpW2o&_nc_ht=scontent-bog2-2.xx&oh=00_AfDbbZvCMX68eBvDW0sqZIv2QCAYtT-ojQu5EXqAgn-kWg&oe=6640A6B8",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00031",
+        "title": "DANKI",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 150000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441485578_10232072211728932_3766226621701471966_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-VV31ZZujTcQ7kNvgH8WujR&_nc_ht=scontent-bog2-2.xx&oh=00_AfC4gLtXfeY_9AzKhsELWzW8Pkt6ocv41sCIquu100uSHg&oe=6640A63D",
+        "categorie": "EARRINGS"
+    },
+    {
+        "id": "8437400EM00032",
+        "title": "SONYA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 15000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/436202392_10232072212328947_4259486294847296507_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3inMiX1KZHMQ7kNvgFoz1TE&_nc_ht=scontent-bog2-2.xx&oh=00_AfC41GxbJvwu1lQUKFviFf_Gh5DgtAYLc1AA7-tNrIJrJw&oe=664085CF",
+        "categorie": "EARRINGS"
+    },
+    {
+        "id": "8437400EM00033",
+        "title": "NAZAROVA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 20000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441492301_10232072212568953_2075454098525609392_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=w0BY4qrLNTkQ7kNvgHdpD0Y&_nc_ht=scontent-bog2-2.xx&oh=00_AfAZelYUQCQZnun4OW8Ex08FZT1bQa-aA08IVXnM8IcLtA&oe=66409C98",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00034",
+        "title": "LAEVA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 15000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442439593_10232072212848960_2496970566884976642_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VjVikoZIwdQQ7kNvgGl2qKq&_nc_ht=scontent-bog2-2.xx&oh=00_AfCqs0VmJnav9dpwaDYphNaneYtahYfUDloWtNdQgfVNVA&oe=66408F97",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00035",
+        "title": "NASTYA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 20000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441675167_10232072213368973_7821166342839149031_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kgVN_SRi13IQ7kNvgHzxAvK&_nc_ht=scontent-bog2-2.xx&oh=00_AfDI37I-pNtV9roMZxci3wDP4346kYp5TfG9U_Ox0hBNcw&oe=664094BA",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00036",
+        "title": "DARIA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 20000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441458882_10232072213728982_5590715187405797582_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zhfkchiJBfUQ7kNvgE_zCkI&_nc_ht=scontent-bog2-2.xx&oh=00_AfBE56eKyMPY8M0LdHr-U0LQPk_XWGYMtoEnLYVPT0vHOw&oe=6640848A",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00037",
+        "title": "DAROVA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 16000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442391452_10232072214008989_4938472348537261813_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=M5u01ZqdVvoQ7kNvgGYhWgO&_nc_ht=scontent-bog2-2.xx&oh=00_AfAj2eiRQ09f0IHhubxAUxu6sxSw-7m7LNTZQcyKLPDJzw&oe=66408ECD",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00038",
+        "title": "MARTSKAYA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441461828_10232072214408999_1834056338188230745_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=9yjReiO0pMoQ7kNvgHRO_p6&_nc_ht=scontent-bog2-2.xx&oh=00_AfDwctYdGdbNOaLJIy_q11vx9CNLH5hS_nOAWCCeQrjx-w&oe=6640AAC3",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00039",
+        "title": "THISNPO",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 22000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441465908_10232072214609004_6616316587468886578_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PoSx3mbpENMQ7kNvgE2BbBi&_nc_ht=scontent-bog2-2.xx&oh=00_AfA0jDE4u1-SP-XSXYvTzo5RU_mivwARmf9UDEe-TRCtBA&oe=6640A92E",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00039-01",
+        "title": "THISNPO",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 16000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441465908_10232072214609004_6616316587468886578_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PoSx3mbpENMQ7kNvgE2BbBi&_nc_ht=scontent-bog2-2.xx&oh=00_AfA0jDE4u1-SP-XSXYvTzo5RU_mivwARmf9UDEe-TRCtBA&oe=6640A92E",
+        "categorie": "EARCUFF"
+    },
+    {
+        "id": "8437400EM00040",
+        "title": "VALE",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 22000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441762617_10232072215009014_8150413826900963007_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UuXE7EccwNoQ7kNvgFfJt1Y&_nc_ht=scontent-bog2-2.xx&oh=00_AfC-YMWP4N23LfTUVlkeHKCB4HaTKvLZf0XK6MwLxc_etA&oe=664093CA",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00041",
+        "title": "DARLIN",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 15000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441872037_10232072215369023_957791454261595190_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=abjcdLOCD8EQ7kNvgHwJb7u&_nc_ht=scontent-bog2-2.xx&oh=00_AfCeOVvEk5gB6XLLmDkvk-okRtHfqtOkj2aA9dA0aOvd6Q&oe=6640A09B",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00041-01",
+        "title": "TATI",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 13000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441872037_10232072215369023_957791454261595190_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=abjcdLOCD8EQ7kNvgHwJb7u&_nc_ht=scontent-bog2-2.xx&oh=00_AfCeOVvEk5gB6XLLmDkvk-okRtHfqtOkj2aA9dA0aOvd6Q&oe=6640A09B",
+        "categorie": "EARCUFF"
+    },
+    {
+        "id": "8437400EM00042",
+        "title": "KSU",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 13000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441546770_10232072215489026_3779893603911476954_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=z6pyp5QsmW8Q7kNvgEdqjVO&_nc_ht=scontent-bog2-2.xx&oh=00_AfDs1D79eRyio61zHTSCaP3wRyXvKpAuSbqM_4QVbXBRUA&oe=66408694",
+        "categorie": "HOOPS"
+    },
+    {
+        "id": "8437400EM00043",
+        "title": "ALESYA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441675696_10232072215889036_1765219210098159334_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=30GE-r1toV4Q7kNvgECayR5&_nc_ht=scontent-bog2-2.xx&oh=00_AfD_t4qkIxS2n3UFTJQUN3BcEL5nUo09Qsb89OWyD-d8OQ&oe=6640A84C",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00043-01",
+        "title": "VOLTAGE",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441675696_10232072215889036_1765219210098159334_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=30GE-r1toV4Q7kNvgECayR5&_nc_ht=scontent-bog2-2.xx&oh=00_AfD_t4qkIxS2n3UFTJQUN3BcEL5nUo09Qsb89OWyD-d8OQ&oe=6640A84C",
+        "categorie": "EARCUFF"
+    },
+    {
+        "id": "8437400EM00044",
+        "title": "SORA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 13000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/436546628_10232072216329047_3983592266200281804_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Ir7KwtmgyvAQ7kNvgHmdCh3&_nc_ht=scontent-bog2-2.xx&oh=00_AfDKz9yvwQ6VDDcscuHeLYgibgC3Zv4O51UqRQFXBpDdqg&oe=66407FB3",
+        "categorie": "EARCUFF"
+    },
+    {
+        "id": "8437400EM00045",
+        "title": "PHILLIPS",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 16000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441966589_10232072216609054_1570850482992581482_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=sWg6j_IeDfAQ7kNvgEAq87z&_nc_ht=scontent-bog2-2.xx&oh=00_AfDEqEeI__n04aDvlCtcWwElcIg-1oXrAdp7B7N4f3ISDA&oe=6640ACB0",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00045-01",
+        "title": "PHILLIPS",
+        "description": "",
+        "giftText": "",
+        "material": "BARBARISKA",
+        "price": 13000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441966589_10232072216609054_1570850482992581482_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=sWg6j_IeDfAQ7kNvgEAq87z&_nc_ht=scontent-bog2-2.xx&oh=00_AfDEqEeI__n04aDvlCtcWwElcIg-1oXrAdp7B7N4f3ISDA&oe=6640ACB0",
+        "categorie": "EARCUFF"
+    },
+    {
+        "id": "8437400EM00046",
+        "title": "ANASTASIYA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441490391_10232072216889061_7276547528857621985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FF-8S_QVHR0Q7kNvgGANBvk&_nc_ht=scontent-bog2-2.xx&oh=00_AfCYJTvOQr9PyDGilvXpUwiquo4quPPcFXEoNAE03zDs7g&oe=66408532",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00046-01",
+        "title": "NENKO",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441490391_10232072216889061_7276547528857621985_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FF-8S_QVHR0Q7kNvgGANBvk&_nc_ht=scontent-bog2-2.xx&oh=00_AfCYJTvOQr9PyDGilvXpUwiquo4quPPcFXEoNAE03zDs7g&oe=66408532",
+        "categorie": "EARCUFF"
+    },
+    {
+        "id": "8437400EM00047",
+        "title": "LUXURY",
+        "description": "",
+        "giftText": "",
+        "material": "COVERGOLD",
+        "price": 20000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442399526_10232072217249070_6226715554124661768_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bz1pXl9sfOEQ7kNvgEzFfof&_nc_ht=scontent-bog2-2.xx&oh=00_AfCoy9P_Bhk_ygmquUtILqYGCr_0D57s7rgmQOmjkxaktQ&oe=66408D84",
+        "categorie": "MOLES"
+    },
+    {
+        "id": "8437400EM00048",
+        "title": "LERA",
+        "description": "",
+        "giftText": "",
+        "material": "PANDORA ACERO",
+        "price": 26000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441020414_10232072217609079_508841958512777956_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=EfxDzxEZqQMQ7kNvgGDFAO0&_nc_ht=scontent-bog2-2.xx&oh=00_AfAKrBfobPSDW_ttU4AXq7VEY-9j4dGvHSdopOdfZwx0Wg&oe=6640A62D",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00049",
+        "title": "TAISSI",
+        "description": "",
+        "giftText": "",
+        "material": "PANDORA ACERO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441454149_10232072217889086_7926068601882597125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=EKhpKh04TAsQ7kNvgEW8Ptg&_nc_ht=scontent-bog2-2.xx&oh=00_AfDFSK9iPMbNkfjVQFToltwHCmA4wRPnX9KbriXAkJ7NQA&oe=6640ACCD",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00050",
+        "title": "NEZABUDKA",
+        "description": "",
+        "giftText": "",
+        "material": "PANDORA ACERO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441466575_10232072218249095_8331133219174287482_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=B42IhjDDrx4Q7kNvgFaYN2Q&_nc_ht=scontent-bog2-2.xx&oh=00_AfAw_eF2sstUaNVz978qI1pr8l4BRt0Q4utqH-JFoFDj5Q&oe=6640A5F9",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00051",
+        "title": "ALINE",
+        "description": "",
+        "giftText": "",
+        "material": "PANDORA ACERO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442393283_10232072218729107_4665716752991983999_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1fqTPjjlQKcQ7kNvgHcjMZd&_nc_ht=scontent-bog2-2.xx&oh=00_AfBh_GlTr6SAKjew4jNQwA3-HLM-Osm9uBXpfbLxhg7rdw&oe=6640A6D3",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00052",
+        "title": "NAZARENKO",
+        "description": "",
+        "giftText": "",
+        "material": "PANDORA ACERO",
+        "price": 27000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441883946_10232072219129117_810924229553639962_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=b_GOfeP2gNwQ7kNvgFFEK7w&_nc_ht=scontent-bog2-2.xx&oh=00_AfBe_SUAlx863aYBQudtQGwfJUyx8S-XCtjEzUY4Hr9rhQ&oe=66409948",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00053",
+        "title": "DASSHA",
+        "description": "",
+        "giftText": "",
+        "material": "DOBLE ACERO",
+        "price": 30000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441538017_10232072219409124_5229937520043771590_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KBStDpgksiMQ7kNvgE9cIH-&_nc_ht=scontent-bog2-2.xx&oh=00_AfBXjpyP8y09PaoYzkH8cKUs_6mDkd43QRj14Kl4H3ZChg&oe=6640904A",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00054",
+        "title": "BELLE",
+        "description": "",
+        "giftText": "",
+        "material": "DOBLE ACERO",
+        "price": 30000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/440944416_10232072219809134_7696694371203753345_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jHIe_-_Vmc4Q7kNvgGOS24W&_nc_ht=scontent-bog2-2.xx&oh=00_AfC8UGuC_Jh6SS0J2Py2zPibU5e0-IgN9lVZooRh_dl5UA&oe=664094B2",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00055",
+        "title": "ALEKSA",
+        "description": "Puedes elegir el color del corazón",
+        "giftText": "Assorted gift box",
+        "material": "RODIO",
+        "price": 35000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442436909_10232072220129142_4169378601472961130_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vu5v1LJsBgAQ7kNvgGymPls&_nc_ht=scontent-bog2-2.xx&oh=00_AfB9fauPH_hoVxKDHDibwnAbJ2s1mfpvDHnayXPSxxDpBA&oe=66408296",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00056",
+        "title": "MSIA",
+        "description": "Puedes elegir el color del corazón",
+        "giftText": "Assorted gift box",
+        "material": "RODIO",
+        "price": 35000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/440975403_10232072220489151_3443733500840107502_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=E6GWgeKchAEQ7kNvgHZ20eq&_nc_ht=scontent-bog2-2.xx&oh=00_AfAj0_0N_EtvRnY8EWNiX_lQjKfzwwcoiYgsQdf4kS2sdg&oe=6640A13E",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00057",
+        "title": "SKAYA",
+        "description": "Puedes elegir la letra",
+        "giftText": "Assorted gift box",
+        "material": "RODIO",
+        "price": 35000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441489382_10232072220849160_4556666104140418671_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Vyq2VjG-crcQ7kNvgHIAD7o&_nc_ht=scontent-bog2-2.xx&oh=00_AfD64SuRGmfACEf7l2oNFH7Ik366tMwbnDoxMeZa2ONDSg&oe=66408EC9",
+        "categorie": "SETS"
+    },
+    {
+        "id": "8437400EM00058",
+        "title": "TANYA",
+        "description": "Puedes elegir la letra",
+        "giftText": "Assorted gift box",
+        "material": "RODIO",
+        "price": 35000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/442372206_10232072221169168_6922401452780430878_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=v9JAaPhHdIsQ7kNvgHhREWN&_nc_ht=scontent-bog2-2.xx&oh=00_AfDQr3nQ_Lx31zRYtPNHM6coSXFaGprv_QGYy7XtQjx-Bw&oe=66409276",
+        "categorie": ""
+    },
+    {
+        "id": "8437400EM00059",
+        "title": "ANNA",
+        "description": "virgen de guadalupe",
+        "giftText": "NATURAL STONES",
+        "material": "ACERO",
+        "price": 22000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441540898_10232072221529177_6046282908847624938_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dmO1HySEbWwQ7kNvgG09eDo&_nc_ht=scontent-bog2-2.xx&oh=00_AfBMSQ8reQTYxdnTbKYJsv6SE_BOOk70aK987SFeOnENiw&oe=66409DF4",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00060",
+        "title": "SORELLE",
+        "description": "virgen de guadalupe",
+        "giftText": "NATURAL STONES",
+        "material": "ACERO",
+        "price": 22000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441867161_10232072221849185_5826697490958571359_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=X5xcLNuUtCUQ7kNvgEWidiC&_nc_ht=scontent-bog2-2.xx&oh=00_AfB0KLOsD9bsOIb35x3knoFFP_AhDgRIzf6biSXaIgZLpA&oe=664090AD",
+        "categorie": "BRACELET"
+    },
+    {
+        "id": "8437400EM00061",
+        "title": "ALEKSA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 17000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441881235_10232072222249195_4666276709275298625_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zhlwIdTY6tIQ7kNvgHcX9Hm&_nc_ht=scontent-bog2-2.xx&oh=00_AfDpQCV0HLaP9jXKOd68UD48mlHGJ62oJY0WnGGV1yy6nA&oe=66409F84",
+        "categorie": "RING"
+    },
+    {
+        "id": "8437400EM00062",
+        "title": "MILA",
+        "description": "",
+        "giftText": "",
+        "material": "RODIO",
+        "price": 15000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441456984_10232072222649205_7536647779137823625_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=L0SUCRWTA7AQ7kNvgEJYyQf&_nc_ht=scontent-bog2-2.xx&oh=00_AfDAz1tJA6NcXZ_Kgzeqn1brOucn7ZOEsVrCOD7NCT3qbw&oe=664098AD",
+        "categorie": "RING"
+    },
+    {
+        "id": "8437400EM00063",
+        "title": "OLYA",
+        "description": "",
+        "giftText": "WOVEN EARRINGS",
+        "material": "MOSTACILLA - BRONCE",
+        "price": 23000,
+        "imageURL": "https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/441951953_10232072222889211_5682838449303677311_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=NyqYYim8pIoQ7kNvgF6dDSf&_nc_ht=scontent-bog2-2.xx&oh=00_AfDGXRvqvPb2dKAyF5_RGriVlJHcutzWGP13V91k3fuHfw&oe=6640873E",
+        "categorie": "EARRINGS"
+    }
+]
