@@ -1,5 +1,5 @@
 import { Dialog, Disclosure, Menu, Transition } from '@headlessui/react'
-import { FunnelIcon, MinusIcon, PlusIcon } from '@heroicons/react/20/solid'
+import { ChevronDownIcon, FunnelIcon, MinusIcon, PlusIcon, Squares2X2Icon } from '@heroicons/react/20/solid'
 import { XMarkIcon } from '@heroicons/react/24/outline'
 import { Fragment, MouseEvent, useEffect, useState } from 'react'
 import './App.css'
@@ -287,7 +287,7 @@ function App() {
 
             <div className="flex items-center">
               <Menu as="div" className="relative inline-block text-left">
-                {/* <div>
+                <div>
                   <Menu.Button className="group inline-flex justify-center text-sm font-medium text-gray-700 hover:text-gray-900">
                     Sort
                     <ChevronDownIcon
@@ -295,7 +295,7 @@ function App() {
                       aria-hidden="true"
                     />
                   </Menu.Button>
-                </div> */}
+                </div>
 
                 <Transition
                   as={Fragment}
@@ -329,10 +329,10 @@ function App() {
                 </Transition>
               </Menu>
 
-              {/* <button type="button" className="-m-2 ml-5 p-2 text-gray-400 hover:text-gray-500 sm:ml-7">
+              <button type="button" className="-m-2 ml-5 p-2 text-gray-400 hover:text-gray-500 sm:ml-7">
                 <span className="sr-only">View grid</span>
                 <Squares2X2Icon className="h-5 w-5" aria-hidden="true" />
-              </button> */}
+              </button>
               <button
                 type="button"
                 className="-m-2 ml-4 p-2 text-gray-400 hover:text-gray-500 sm:ml-6 lg:hidden"
